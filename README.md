@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Full-Stack Developer
 - Solving DSA problems in free time
 - Currently learning Web Development by Self
 - Personal website [Coming soon!](https://www.google.com/)
