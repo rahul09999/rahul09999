@@ -160,15 +160,3 @@ You can click the Preview link to take a look at your changes.
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-Credit: [Rahul](https://github.com/rahul09999)
