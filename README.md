@@ -163,14 +163,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-<div align='center'>
-
-## <center>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। <br>  मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥✨</center>
-
-## <b> English Translation:- You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction. </b>
-
-</div>
-<br>
 <br>
 <br>
 <br>
